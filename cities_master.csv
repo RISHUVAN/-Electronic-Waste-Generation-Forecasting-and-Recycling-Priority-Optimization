@@ -1,0 +1,131 @@
+City,State,Region,City_Category,Latitude,Longitude,Is_Tourist,Is_Hill_Station
+Mumbai,Maharashtra,West,Metro,19.0760,72.8777,0,0
+Delhi,Delhi,North,Metro,28.7041,77.1025,0,0
+Bangalore,Karnataka,South,Metro,12.9716,77.5946,0,0
+Hyderabad,Telangana,South,Metro,17.3850,78.4867,0,0
+Ahmedabad,Gujarat,West,Metro,23.0225,72.5714,0,0
+Chennai,Tamil Nadu,South,Metro,13.0827,80.2707,0,0
+Kolkata,West Bengal,East,Metro,22.5726,88.3639,0,0
+Pune,Maharashtra,West,Metro,18.5204,73.8567,0,0
+Surat,Gujarat,West,Metro,21.1702,72.8311,0,0
+Jaipur,Rajasthan,North,Metro,26.9124,75.7873,1,0
+Lucknow,Uttar Pradesh,Central,Tier-1,26.8467,80.9462,0,0
+Kanpur,Uttar Pradesh,Central,Tier-1,26.4499,80.3319,0,0
+Nagpur,Maharashtra,West,Tier-1,21.1458,79.0882,0,0
+Indore,Madhya Pradesh,Central,Tier-1,22.7196,75.8577,0,0
+Bhopal,Madhya Pradesh,Central,Tier-1,23.2599,77.4126,0,0
+Visakhapatnam,Andhra Pradesh,South,Tier-1,17.6868,83.2185,0,0
+Patna,Bihar,East,Tier-1,25.5941,85.1376,0,0
+Vadodara,Gujarat,West,Tier-1,22.3072,73.1812,0,0
+Ludhiana,Punjab,North,Tier-1,30.9010,75.8573,0,0
+Agra,Uttar Pradesh,Central,Tier-1,27.1767,78.0081,1,0
+Nashik,Maharashtra,West,Tier-1,19.9975,73.7898,0,0
+Faridabad,Haryana,North,Tier-1,28.4089,77.3178,0,0
+Meerut,Uttar Pradesh,Central,Tier-1,28.9845,77.7064,0,0
+Rajkot,Gujarat,West,Tier-1,22.3039,70.8022,0,0
+Varanasi,Uttar Pradesh,Central,Tier-1,25.3176,82.9739,1,0
+Srinagar,Jammu and Kashmir,North,Tier-1,34.0837,74.7973,1,0
+Amritsar,Punjab,North,Tier-1,31.6340,74.8723,1,0
+Navi Mumbai,Maharashtra,West,Tier-1,19.0330,73.0297,0,0
+Prayagraj,Uttar Pradesh,Central,Tier-1,25.4358,81.8463,0,0
+Ranchi,Jharkhand,East,Tier-1,23.3441,85.3096,0,0
+Howrah,West Bengal,East,Tier-1,22.5958,88.2636,0,0
+Coimbatore,Tamil Nadu,South,Tier-1,11.0168,76.9558,0,0
+Jabalpur,Madhya Pradesh,Central,Tier-1,23.1815,79.9864,0,0
+Gwalior,Madhya Pradesh,Central,Tier-1,26.2183,78.1828,0,0
+Vijayawada,Andhra Pradesh,South,Tier-1,16.5062,80.6480,0,0
+Jodhpur,Rajasthan,North,Tier-1,26.2389,73.0243,1,0
+Madurai,Tamil Nadu,South,Tier-1,9.9252,78.1198,1,0
+Raipur,Chhattisgarh,Central,Tier-1,21.2514,81.6296,0,0
+Kota,Rajasthan,North,Tier-1,25.2138,75.8648,0,0
+Chandigarh,Chandigarh,North,Tier-1,30.7333,76.7794,0,0
+Guwahati,Assam,Northeast,Tier-1,26.1445,91.7362,0,0
+Solapur,Maharashtra,West,Tier-1,17.6599,75.9064,0,0
+Hubballi-Dharwad,Karnataka,South,Tier-1,15.3647,75.1240,0,0
+Bareilly,Uttar Pradesh,Central,Tier-1,28.3670,79.4304,0,0
+Moradabad,Uttar Pradesh,Central,Tier-1,28.8386,78.7733,0,0
+Mysuru,Karnataka,South,Tier-1,12.2958,76.6394,0,0
+Tiruchirappalli,Tamil Nadu,South,Tier-1,10.7905,78.7047,0,0
+Gurugram,Haryana,North,Tier-1,28.4595,77.0266,0,0
+Aligarh,Uttar Pradesh,Central,Tier-1,27.8974,78.0880,0,0
+Jalandhar,Punjab,North,Tier-1,31.3260,75.5762,0,0
+Bhubaneswar,Odisha,East,Tier-2,20.2961,85.8245,0,0
+Salem,Tamil Nadu,South,Tier-2,11.6643,78.1460,0,0
+Warangal,Telangana,South,Tier-2,17.9689,79.5941,0,0
+Guntur,Andhra Pradesh,South,Tier-2,16.3067,80.4365,0,0
+Bhiwandi,Maharashtra,West,Tier-2,19.3002,73.0629,0,0
+Saharanpur,Uttar Pradesh,Central,Tier-2,29.9680,77.5460,0,0
+Gorakhpur,Uttar Pradesh,Central,Tier-2,26.7606,83.3732,0,0
+Bikaner,Rajasthan,North,Tier-2,28.0229,73.3119,0,0
+Amravati,Maharashtra,West,Tier-2,20.9374,77.7796,0,0
+Noida,Uttar Pradesh,Central,Tier-2,28.5355,77.3910,0,0
+Jamshedpur,Jharkhand,East,Tier-2,22.8046,86.2029,0,0
+Bhilai,Chhattisgarh,Central,Tier-2,21.2094,81.4285,0,0
+Cuttack,Odisha,East,Tier-2,20.4625,85.8830,0,0
+Firozabad,Uttar Pradesh,Central,Tier-2,27.1592,78.3957,0,0
+Kochi,Kerala,South,Tier-2,9.9312,76.2673,1,0
+Nellore,Andhra Pradesh,South,Tier-2,14.4426,79.9865,0,0
+Bhavnagar,Gujarat,West,Tier-2,21.7645,72.1519,0,0
+Dehradun,Uttarakhand,Central,Tier-2,30.3165,78.0322,0,0
+Durgapur,West Bengal,East,Tier-2,23.5204,87.3119,0,0
+Asansol,West Bengal,East,Tier-2,23.6739,86.9524,0,0
+Rourkela,Odisha,East,Tier-2,22.2604,84.8536,0,0
+Nanded,Maharashtra,West,Tier-2,19.1383,77.3210,0,0
+Kolhapur,Maharashtra,West,Tier-2,16.7050,74.2433,0,0
+Ajmer,Rajasthan,North,Tier-2,26.4499,74.6399,0,0
+Akola,Maharashtra,West,Tier-2,20.7002,77.0082,0,0
+Gulbarga,Karnataka,South,Tier-2,17.3297,76.8343,0,0
+Jamnagar,Gujarat,West,Tier-2,22.4707,70.0577,0,0
+Ujjain,Madhya Pradesh,Central,Tier-2,23.1765,75.7885,0,0
+Siliguri,West Bengal,East,Tier-2,26.7271,88.3953,0,0
+Jhansi,Uttar Pradesh,Central,Tier-2,25.4484,78.5685,0,0
+Jammu,Jammu and Kashmir,North,Tier-2,32.7266,74.8570,0,0
+Mangalore,Karnataka,South,Tier-2,12.9141,74.8560,0,0
+Erode,Tamil Nadu,South,Tier-2,11.3410,77.7172,0,0
+Belgaum,Karnataka,South,Tier-2,15.8497,74.4977,0,0
+Tirunelveli,Tamil Nadu,South,Tier-2,8.7139,77.7567,0,0
+Gaya,Bihar,East,Tier-2,24.7955,84.9994,0,0
+Jalgaon,Maharashtra,West,Tier-2,21.0077,75.5626,0,0
+Udaipur,Rajasthan,North,Tier-2,24.5854,73.7125,1,0
+Muzaffarpur,Bihar,East,Tier-2,26.1225,85.3906,0,0
+Bilaspur,Chhattisgarh,Central,Tier-2,22.0797,82.1391,0,0
+Thrissur,Kerala,South,Tier-2,10.5276,76.2144,0,0
+Kollam,Kerala,South,Tier-2,8.8932,76.6141,0,0
+Vellore,Tamil Nadu,South,Tier-2,12.9165,79.1325,0,0
+Karnal,Haryana,North,Tier-2,29.6857,76.9905,0,0
+Rohtak,Haryana,North,Tier-2,28.8955,76.6066,0,0
+Shimla,Himachal Pradesh,North,Tier-3,31.1048,77.1734,1,1
+Panaji,Goa,West,Tier-3,15.4909,73.8278,1,0
+Imphal,Manipur,Northeast,Tier-3,24.8170,93.9368,0,0
+Aizawl,Mizoram,Northeast,Tier-3,23.7271,92.7176,0,0
+Shillong,Meghalaya,Northeast,Tier-3,25.5788,91.8933,1,1
+Kohima,Nagaland,Northeast,Tier-3,25.6751,94.1086,0,0
+Itanagar,Arunachal Pradesh,Northeast,Tier-3,27.0844,93.6053,0,0
+Gangtok,Sikkim,Northeast,Tier-3,27.3389,88.6065,1,1
+Agartala,Tripura,Northeast,Tier-3,23.8315,91.2868,0,0
+Puducherry,Puducherry,South,Tier-3,11.9416,79.8083,1,0
+Haridwar,Uttarakhand,Central,Tier-3,29.9457,78.1642,1,0
+Rishikesh,Uttarakhand,Central,Tier-3,30.0869,78.2676,1,0
+Sonipat,Haryana,North,Tier-3,28.9931,77.0151,0,0
+Panipat,Haryana,North,Tier-3,29.3909,76.9635,0,0
+Bathinda,Punjab,North,Tier-3,30.2110,74.9455,0,0
+Patiala,Punjab,North,Tier-3,30.3398,76.3869,0,0
+Alwar,Rajasthan,North,Tier-3,27.5530,76.6346,0,0
+Bharatpur,Rajasthan,North,Tier-3,27.2152,77.4909,0,0
+Sikar,Rajasthan,North,Tier-3,27.6094,75.1399,0,0
+Rewa,Madhya Pradesh,Central,Tier-3,24.5364,81.2961,0,0
+Satna,Madhya Pradesh,Central,Tier-3,24.6005,80.8322,0,0
+Ratlam,Madhya Pradesh,Central,Tier-3,23.3315,75.0367,0,0
+Junagadh,Gujarat,West,Tier-3,21.5222,70.4579,0,0
+Puri,Odisha,East,Tier-3,19.8135,85.8312,1,0
+Bhagalpur,Bihar,East,Tier-3,25.2425,86.9842,0,0
+Darjeeling,West Bengal,East,Tier-3,27.0410,88.2663,1,1
+Thanjavur,Tamil Nadu,South,Tier-3,10.7870,79.1378,1,0
+Alappuzha,Kerala,South,Tier-3,9.4981,76.3388,1,0
+Kannur,Kerala,South,Tier-3,11.8745,75.3704,1,0
+Diu,Daman and Diu,West,Tier-3,20.7144,70.9874,1,0
+Silvassa,Dadra and Nagar Haveli,West,Tier-3,20.2766,73.0169,0,0
+Port Blair,Andaman and Nicobar Islands,East,Tier-3,11.6234,92.7265,1,0
+Kavaratti,Lakshadweep,South,Tier-3,10.5593,72.6358,1,0
+Pushkar,Rajasthan,North,Tier-3,26.4897,74.5511,1,0
+Mount Abu,Rajasthan,North,Tier-3,24.5926,72.7156,1,1
